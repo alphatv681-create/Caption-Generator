@@ -1,1 +1,3 @@
 ffmpeg
+fonts-noto-sans-telugu
+fonts-noto-sans
